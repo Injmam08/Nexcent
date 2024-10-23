@@ -30,13 +30,28 @@ function CostumerPage() {
           <h2>Tim Smith</h2>
           <p>British Dragon Boat Racing Association</p>
           <div className=" ticon mt-2">
-          <div className="teslaicon "><img src="../images/icon1.png" alt="icon"/></div>
-          <div className="teslaicon "><img src="../images/icon2.png" alt="icon"/></div>
-          <div className="teslaicon "><img src="../images/icon3.png" alt="icon"/></div>
-          <div className="teslaicon "><img src="../images/icon4.png" alt="icon"/> </div>
-          <div className="teslaicon "><img src="../images/icon5.png" alt="icon"/></div>
-          <div className="teslaicon "><img src="../images/icon6.png" alt="icon"/></div>
-          <a style={{textDecoration:'none'}} href="/"> Meet all customers </a>
+            <div className="teslaicon ">
+              <img src="../images/icon1.png" alt="icon" />
+            </div>
+            <div className="teslaicon ">
+              <img src="../images/icon2.png" alt="icon" />
+            </div>
+            <div className="teslaicon ">
+              <img src="../images/icon3.png" alt="icon" />
+            </div>
+            <div className="teslaicon ">
+              <img src="../images/icon4.png" alt="icon" />{" "}
+            </div>
+            <div className="teslaicon ">
+              <img src="../images/icon5.png" alt="icon" />
+            </div>
+            <div className="teslaicon ">
+              <img src="../images/icon6.png" alt="icon" />
+            </div>
+            <a style={{ textDecoration: "none" }} href="/">
+              {" "}
+              Meet all customers{" "}
+            </a>
           </div>
         </div>
       </div>

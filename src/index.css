@@ -70,14 +70,55 @@ code {
 }
 .ticon{
   display: flex;
- justify-content: center;
+  justify-content: center;
   align-items: center;
   height: 20px;
   width: 500px;
   margin: 60px;
   
 }
-teslaicon{
- 
+.teslaicon{
+  margin: 20px;
+  margin-top: 40px;
+}
+.market{
+  height: 400px;
+  width: 400px;
+  margin-left: 60px;
+}
+.card{
+  height: 150px;
+  width: 270px;
+  margin-left: 120px;
+  margin-top: -70px;
 
+}
+.logo1{
+  margin-top: 50px;
+  margin-left: -40px;
+}
+.flogo{
+  display: flex;
+  
+  align-items: center;
+}
+.copy{
+  margin-left: -30px;
+  margin-top: 20px;
+}
+.nav{
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  
+}
+.nav1{
+  list-style: none;
+  margin: 20px;
+}
+.logos{
+  height: 40px;
+  margin-top: 30px;
 }
