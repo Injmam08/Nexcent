@@ -1,9 +1,13 @@
 import React from 'react'
 function MarketingPage() {
     return ( 
-        <h1>
-            MarketingPage
-        </h1>
+        <div className='container mt-4'>
+            <div className='text-center'>
+                <h1 >Caring is the new marketing</h1>
+                <p>The Nextcent blog is the best place to read about the latest membership insights, <br/>trends and more. See who's joining the community, read about how our community<br/> are increasing their membership income and lot's more.​</p>
+            </div>
+
+        </div>
      );
 }
 
